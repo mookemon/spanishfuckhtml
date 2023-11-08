@@ -1,6 +1,6 @@
 ---
-title: 'Hugo Whisper Docs'
+title: 'Spanish Glossary'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+This is  just a website for keeping track of everything we learned in spanish.
