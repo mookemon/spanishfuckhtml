@@ -29,27 +29,27 @@ summaryLength = 30
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
+  homepage_button_text = 'Get Learning'
+  homepage_intro = 'A website that keeps a track of everything we learned in spanish.'
   homepage_image = '/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "This is  just a website for keeping track of everything we learned in spanish."
+    meta_og_title = "Spanish Glossary"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_url = "https://spanish.fuckht.ml"
+    meta_og_image = ""
+    meta_og_description = "This is  just a website for keeping track of everything we learned in spanish."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@NotSimpery"
+    meta_twitter_creator = "@NotSimpery"
 
   [params.logo]
       mobile = "/images/Crown.jpg"
       standard  = "/images/Crown.jpg"
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">Zerostatic Themes</a>'
+    copyright_text = 'Glossary built by <a class="zerostatic" href="https://www.fuckht.ml">Simpery</a>'
