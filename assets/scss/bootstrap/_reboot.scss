@@ -247,6 +247,7 @@ a {
   &:hover {
     --#{$prefix}link-color-rgb: var(--#{$prefix}link-hover-color-rgb);
     text-decoration: $link-hover-decoration;
+    text-decoration-color: $primary;
   }
 }
 

@@ -15,14 +15,14 @@ $container-max-widths: (
 
 $grid-gutter-width: 20px;
 
-$primary: #1de9b6;
+$primary: #60f2b6;
 $secondary: #ffca28;
 $black: #212529;
 
 // Links
 $link-color: #5734b6;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 20%);
+$link-hover-color: lighten($link-color, 20%);
 $link-hover-decoration: underline;
 
 // Fonts
