@@ -1,5 +1,7 @@
 .sub-footer {
-  background: #f4f5fb;
+  background-color: #faf9e7;
+  outline-style: solid;
+  outline-color: #e5d788;
   padding-top: 15px;
   padding-bottom: 15px;
   @include media-breakpoint-up(md) {
