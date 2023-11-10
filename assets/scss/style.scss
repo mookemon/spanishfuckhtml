@@ -37,6 +37,13 @@
 @import 'pages/home';
 
 // Global
+::-webkit-scrollbar {
+  display: none;
+}
+
+::-webkit-scrollbar-button {
+  display: none;
+}
 body {
   font-family: $font-family-base;
   font-size: 1rem;
@@ -49,7 +56,4 @@ body {
 .container {
   padding-left: $grid-gutter-width;
   padding-right: $grid-gutter-width;
-}
-body::-webkit-scrollbar {
-  display: none;
 }
