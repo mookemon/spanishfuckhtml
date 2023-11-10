@@ -44,9 +44,12 @@ body {
   line-height: 1.4;
   color: $black;
   background-color:#faf9e7 ;
-  overflow: hidden;
+  scrollbar-width: none;
 }
 .container {
   padding-left: $grid-gutter-width;
   padding-right: $grid-gutter-width;
+}
+body::-webkit-scrollbar {
+  display: none;
 }
