@@ -20,7 +20,7 @@
   <div class="container pt-4 pb-16">
     <div class="row">
       <div class="col-12 col-md-6 d-flex align-items-center">
-        <div class="mb-4"> <!-- Added margin-bottom for spacing -->
+        <div class="mt-4"> <!-- Added margin-bottom for spacing -->
           <h1 class="title">{{ .Title | default .Site.Title }}</h1>
           <div class="content">
             {{ if .Content }}
@@ -28,7 +28,7 @@
             {{ else }}
               <p>{{ .Site.Params.homepage_intro }}</p>
             {{ end }}
-            <a class="button button-primary mb-2" href="{{ .Site.Params.homepage_button_link | relURL }}">
+            <a class="button button-primary mt-2" href="{{ .Site.Params.homepage_button_link | relURL }}">
               {{ .Site.Params.homepage_button_text }}
             </a>
           </div>
