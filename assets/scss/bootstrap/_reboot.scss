@@ -241,15 +241,16 @@ sup { top: -.5em; }
 // Links
 
 a {
-  color: rgba(var(--#{$prefix}link-color-rgb), var(--#{$prefix}link-opacity, 1));
-  text-decoration: $link-decoration;
+  text-decoration: underline;
+    text-decoration-color: transparent;
+    transition: text-decoration-color 0.3s ease;
 
   &:hover {
-    --#{$prefix}link-color-rgb: var(--#{$prefix}link-hover-color-rgb);
-    text-decoration: $link-hover-decoration;
-    text-decoration-color: $primary;
+    --bs-link-color-rgb: var(--bs-link-hover-color-rgb);
+    text-decoration-color: #60f2b6; /* Purple color */
   }
 }
+
 
 // And undo these styles for placeholder links/named anchors (without href).
 // It would be more straightforward to just use a[href] in previous block, but that
