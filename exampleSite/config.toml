@@ -48,8 +48,8 @@ summaryLength = 30
     meta_twitter_creator = "@NotSimpery"
 
   [params.logo]
-      mobile = "/images/Crown.jpg"
-      standard  = "/images/Crown.jpg"
+      mobile = "/images/logo.png"
+      standard  = "/images/logo.png"
 
   [params.footer]
     copyright_text = 'Glossary built by <a class="zerostatic" href="https://www.fuckht.ml">Simpery</a>'
