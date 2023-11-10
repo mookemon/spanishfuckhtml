@@ -22,7 +22,7 @@ $black: #212529;
 // Links
 $link-color: #5734b6;
 $link-decoration: none;
-$link-hover-color: lighten($link-color, 20%);
+$link-hover-color: $link-color;
 $link-hover-decoration: underline;
 
 // Fonts
