@@ -18,23 +18,25 @@
 {{ define "main" }}
 <div class="strip">
   <div class="container pt-4 pb-16">
-    <div class="row align-items-center">
-      <div class="col-12 col-md-6">
-        <h1 class="title">{{ .Title | default .Site.Title }}</h1>
-        <div class="content">
-          {{ if .Content }}
-            {{ .Content }}
-          {{ else }}
-            <p>{{ .Site.Params.homepage_intro }}</p>
-          {{ end }}
-          <a class="button button-primary mb-2" href="{{ .Site.Params.homepage_button_link | relURL }}">
-            {{ .Site.Params.homepage_button_text }}
-          </a>
+    <div class="row">
+      <div class="col-12 col-md-6 d-flex align-items-center">
+        <div>
+          <h1 class="title">{{ .Title | default .Site.Title }}</h1>
+          <div class="content">
+            {{ if .Content }}
+              {{ .Content }}
+            {{ else }}
+              <p>{{ .Site.Params.homepage_intro }}</p>
+            {{ end }}
+            <a class="button button-primary mb-2" href="{{ .Site.Params.homepage_button_link | relURL }}">
+              {{ .Site.Params.homepage_button_text }}
+            </a>
+          </div>
         </div>
       </div>
       {{ if .Site.Params.homepage_image }}
-      <div class="col-12 col-md-6">
-        <div class="terminal text-center"> <!-- Centering the text content within the terminal div -->
+      <div class="col-12 col-md-6 d-flex align-items-center">
+        <div class="text-center"> <!-- Centering the text content within the terminal div -->
           <img src="{{ .Site.Params.homepage_image | relURL }}" />
         </div>
       </div>
@@ -43,7 +45,6 @@
   </div>
 </div>
 {{ end }}
-
 
 {{ define "footer_js" }}
 {{ end }}
