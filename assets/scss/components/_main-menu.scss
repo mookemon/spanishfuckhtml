@@ -14,12 +14,17 @@
       > a {
         padding: 10px 14px 10px 14px;
         display: inline-block;
-        font-weight: normal;
-        text-decoration: none;
-        color: $primary;
+        font-weight: bold;
+        color: #60f2b6;
+        text-decoration: underline;
+        text-decoration-color: transparent;
+        transition: text-decoration-color 0.3s ease;
         &:hover {
-          text-decoration: underline;
           color: $primary;
+          text-decoration-color: #60f2b6; /* Purple color */
+        }
+        &:link {
+          color:#60f2b6;
         }
       }
       &.active {
