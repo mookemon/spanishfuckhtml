@@ -46,5 +46,11 @@
 </div>
 {{ end }}
 
+{{ if .Site.Params.homepage_image }}
+  <div class="terminal">
+    <img src="{{ .Site.Params.homepage_image | relURL}}" />
+  </div>
+{{ end }}
+
 {{ define "footer_js" }}
 {{ end }}
