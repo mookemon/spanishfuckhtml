@@ -3,12 +3,12 @@ license = "MIT"
 licenselink = "https://github.com/zerostatic/hugo-whisper-theme/blob/master/LICENSE"
 description = "Whisper is a minimal documentation theme built for Hugo. The design and functionality is intentionally minimal."
 
-homepage = "https://github.com/zerostatic/hugo-whisper-theme"
-demosite = "https://hugo-whisper.netlify.app"
+homepage = "https://github.com/Simperee/spanishfuckhtml"
+demosite = "https://spanish.fuckht.ml"
 
 tags = ["docs","responsive","minimal","clean","bootstrap","zerostatic"]
 features = ["docs","bootstrap","scss","netlify","google analytics"]
 
 [author]
-  name = "Robert Austin"
-  homepage = "https://www.zerostatic.io"
+  name = "Simpery"
+  homepage = "https://spanish.fuckht.ml"
