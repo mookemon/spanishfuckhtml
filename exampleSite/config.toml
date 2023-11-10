@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "Glossover by Simpery"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
