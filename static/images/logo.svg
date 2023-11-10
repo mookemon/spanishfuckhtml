@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1456" height="302" viewBox="0 0 1456 302">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #25096d;
+      }
+
+      .cls-1 {
+        stroke: #25096d;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        font-size: 200px;
+        font-family: "Space Mono";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="150" cy="151" r="150"/>
+  <text id="Glossover" class="cls-2" x="354.817" y="220.676">Glossover</text>
+</svg>
