@@ -2,7 +2,7 @@
   white-space: nowrap;
   display: inline-block;
   padding: 8px 15px 6px 15px;
-  background: $primary;
+  background: #f94937;
   font-weight: normal;
   text-transform: uppercase;
   color: lighten($primary, 50%);
@@ -10,7 +10,7 @@
   border-radius: 3px;
   &:hover {
     color: #fff;
-    background-color: lighten($primary, 10%);
+    background-color: lighten(#f94937, 10%);
     text-decoration: none;
   }
 }
