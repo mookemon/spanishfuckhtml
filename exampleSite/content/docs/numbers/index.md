@@ -43,23 +43,21 @@ summary: Numeros en español.
 - Noventa - 90.
 ㅤㅤㅤㅤㅤ
 
-100. Cien
-101. Ciento uno
-102. Ciento dos
-ㅤㅤㅤㅤㅤ
+- Cien- 100.
+- Ciento uno - 101.
+- Ciento dos - 102.
+- Doscientos - 200.
+- Trescientos - 300.
+- Cuatrocientos - 400.
+- Quinientos - 500.
+- Seiscientos - 600.
+- Setecientos - 700.
+- Ochocientos - 800.
+- Novecientos - 900.
 
-200. Doscientos
-300. Trescientos
-400. Cuatrocientos
-500. Quinientos
-600. Seiscientos
-700. Setecientos
-800. Ochocientos
-900. Novecientos
-
-1000. Mil
-2000. Dos mil
-10000. Diez mil
-100000. Cien mil
-1000000. Un millón
-2000000. Dos millones 
+- Mil - 1,000.
+- Dos mil - 2,000. 
+-  Diez mil - 10,000.
+- Cien mil - 100,000.
+- Un millón - 1,000,000.
+- Dos millones - 2,000,000. 
