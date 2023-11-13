@@ -33,9 +33,9 @@ summary: Comidas y horas de comer en español.
 - `Taza` - Cup
 - `Vaso` - Glass
 
-`Yo necesito un vaso de agua.` - I need a glass of water.
+`Necesito un vaso de agua.` - I need a glass of water.
 
-`El jugo de manzana es muy bueno` - The apple juice is very good.
+`El jugo de manzana está muy bueno` - The apple juice is very good.
 
 ###### Las Comidas:
 
@@ -55,9 +55,9 @@ summary: Comidas y horas de comer en español.
 
 - `Comer` - To eat
 
-`Te comes el steak de Julia` - You eat Julia's steak
+`Te comes el chuletón de Julia` - You eat Julia's steak
 
-`El pescado es muy delicioso` - The fish is very tasty
+`El pescado está muy delicioso` - The fish is very tasty
 
 ###### Descriptives:
 
@@ -73,6 +73,6 @@ summary: Comidas y horas de comer en español.
 - `Caliente` - Hot
 - `Frío/a` - Cold
 
-`La taza de café estaba demasiado fría.` - The cup of coffee was too cold.
+`La taza de café estaba demasiada fría.` - The cup of coffee was too cold.
 
-`El helado es muy dulce` - The ice cream is very sweet.
+`El helado está muy dulce` - The ice cream is very sweet.
