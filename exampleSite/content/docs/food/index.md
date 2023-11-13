@@ -8,10 +8,10 @@ summary: Comidas y horas de comer en español.
 
 ##### Different meals of the day:
 
-Breakfast - `El desayuno` | 
-Lunch - `La comida` | 
-Snack - `La merienda` | 
-Dinner - `La cena`
+- `El desayuno` - Breakfast
+- `La comida` - Lunch
+- `La merienda` - Snack
+- `La cena` - Dinner 
 
 - `Desayunar` - To have breakfast.
 - `Comer` - To have lunch.
