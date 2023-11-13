@@ -46,4 +46,5 @@ summary: Las ropas y los colores en español.
 > `Demasiado` can be added in front of `Barato` and `Caro` to say `too`. `Caro` (expensive) is not to be confused with `Carro` (car).
 
 `Yo quiero comprar ese vestido rojo.` - I want to buy this red dress.
+
 `El sombrero azul es demasiado caro` - The blue hat is too expensive.
