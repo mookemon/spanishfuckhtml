@@ -110,14 +110,14 @@
     margin-bottom: 20px;
   }
   blockquote {
-    background: #f9f9f9;
-    border-left: 10px solid #ccc;
+    background: #e5e4d0;
+    border-left: 10px solid #f94937;
     margin: 1.5em 10px;
     padding: 0.5em 10px;
     quotes: '\201C''\201D''\2018''\2019';
   }
   blockquote:before {
-    color: #ccc;
+    color: #f94937;
     content: open-quote;
     font-size: 4em;
     line-height: 0.1em;
