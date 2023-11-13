@@ -34,8 +34,8 @@ summary: Numeros en español.
 
 > Compound numbers past 30 on the other hand work in this format: `Trienta y {number}`, the `Trienta` can be changed for any multiple of ten higher than 20 and smaller than 100. The spaces are included this time. For example: `Trienta y dos` which means 32.
 
-30. Trienta
-    40. Cuarenta
+- Trienta - 30. 
+- Cuarenta - 40.
 50. Cincuenta
 60. Sesenta
 70. Setenta
