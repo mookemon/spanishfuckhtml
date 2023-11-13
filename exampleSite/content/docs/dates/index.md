@@ -15,7 +15,7 @@ summary: Fechas en español.
 - May - `Mayo`
 - June - `Junio`
 - July - `Julio`
-- August- `Augusto`
+- August- `Augosto`
 - September - `Septiembre`
 - Octobre - `Octubre`
 - Noviembre - `Noviembre`
