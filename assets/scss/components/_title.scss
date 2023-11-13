@@ -4,8 +4,12 @@
   font-family: $font-family-base;
   letter-spacing: -0.2px;
   font-weight: bold;
-  margin: auto;
-  
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+
   @include media-breakpoint-up(md) {
     font-size: 3rem;
     margin-bottom: 30px;
