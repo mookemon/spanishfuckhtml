@@ -33,9 +33,9 @@ summary: Fechas en español.
 
 ##### Seasons:
 
-Spring - `Primavera`
-Summer - `Verano`
-Autumn - `Otoño`
+Spring - `Primavera` | 
+Summer - `Verano` | 
+Autumn - `Otoño` | 
 Winter - `Invierno`
 
 ##### Date based sentences:
