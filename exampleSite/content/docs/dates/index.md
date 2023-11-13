@@ -8,37 +8,37 @@ summary: Fechas en español.
 
 ##### Months:
 
-January - `Enero`
-February - `Febrero`
-March - `Marzo`
-April - `Abril`
-May - `Mayo`
-June - `Junio`
-July - `Julio`
-August- `Augusto`
-September - `Septiembre`
-Octobre - `Octubre`
-Noviembre - `Noviembre`
-December - `Deciembre`
+- January - `Enero`
+- February - `Febrero`
+- March - `Marzo`
+- April - `Abril`
+- May - `Mayo`
+- June - `Junio`
+- July - `Julio`
+- August- `Augusto`
+- September - `Septiembre`
+- Octobre - `Octubre`
+- Noviembre - `Noviembre`
+- December - `Deciembre`
 
-##### Days
+##### Days:
 
-Monday - `Lunes`
-Tuesday - `Martes`
-Wednesday - `Miercoles`
-Thursday- `Jueves`
-Friday - `Viernes`
-Saturday - `Sabado`
-Sunday - `Domingo`
+- Monday - `Lunes`
+- Tuesday - `Martes`
+- Wednesday - `Miercoles`
+- Thursday- `Jueves`
+- Friday - `Viernes`
+- Saturday - `Sabado`
+- Sunday - `Domingo`
 
-##### Seasons
+##### Seasons:
 
 Spring - `Primavera`
 Summer - `Verano`
 Autumn - `Otoño`
 Winter - `Invierno`
 
-##### Date based sentences
+##### Date based sentences:
 
 `El siete de enero` - January 7th
 
