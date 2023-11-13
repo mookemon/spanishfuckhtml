@@ -6,6 +6,7 @@ weight: 1
 summary: Introducciones en español.
 ---
 
+
 ##### In spanish, the most common sentence used to present oneself is:
 
 `Hola, me llamo/a {name} y soy {nationality}.`
@@ -19,6 +20,7 @@ summary: Introducciones en español.
 
 `¿Cómo te llamas?`
 - What's your name?
+
 
 ###### You may also want to say where you are from or where you live:
 
@@ -37,6 +39,7 @@ summary: Introducciones en español.
 `¿Cuál es su nacionalidad?`
 - What is your nationality?
 
+
 ###### You might also speak some languages:
 
 `Yo hablo inglés, español y francés`
@@ -44,6 +47,7 @@ summary: Introducciones en español.
 
 `¿Cuál idiomas hablas tú?`
 - What languages do you speak?
+
 
 ###### You could also say how you feel:
 
