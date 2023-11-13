@@ -34,18 +34,6 @@
           </div>
         </div>
       </div>
-      {{ if .Site.Params.homepage_image }}
-      <div class="col-12 col-md-6 d-flex align-items-center">
-        <div class="text-center"> <!-- Centering the text content within the terminal div -->
-          <div class="terminal">
-            <img src="{{ .Site.Params.homepage_image | relURL }}" />
-          </div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</div>
 {{ end }}
 
 {{ define "footer_js" }}
