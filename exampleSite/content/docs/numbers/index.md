@@ -36,11 +36,12 @@ summary: Numeros en español.
 
 - Trienta - 30. 
 - Cuarenta - 40.
-50. Cincuenta
-60. Sesenta
-70. Setenta
-80. Ochenta
-90. Noventa
+- Cincuenta - 50.
+- Sesenta - 50.
+- Setenta - 70.
+- Ochenta - 80.
+- Noventa - 90.
+ㅤㅤㅤㅤㅤ
 
 100. Cien
 101. Ciento uno
