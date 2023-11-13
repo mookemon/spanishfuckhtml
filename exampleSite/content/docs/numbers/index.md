@@ -41,7 +41,6 @@ summary: Numeros en español.
 - Setenta - 70.
 - Ochenta - 80.
 - Noventa - 90.
-ㅤㅤㅤㅤㅤ
 
 - Cien- 100.
 - Ciento uno - 101.
