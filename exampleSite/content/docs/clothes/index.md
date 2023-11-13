@@ -17,7 +17,7 @@ summary: Las ropas y los colores en español.
 - `Falda` - A Skirt
 - `Jersey` - A Jersey
 - `Sombrero` - A Hat
-- `Calcetinas` - Socks
+- `Calcetines` - Socks
 - `Cinturón` - A Belt
 - `Zapatos` - Shoes
 - `Cartera` - A Purse
